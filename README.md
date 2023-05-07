@@ -1,1 +1,2 @@
-# MetHack
+# metHacks
+project for hackathon.
